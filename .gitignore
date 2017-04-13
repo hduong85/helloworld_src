@@ -1,0 +1,12 @@
+autom4te.cache/
+Makefile
+config.h
+config.log
+config.status
+stamp-h1
+configure.scan
+autoscan.log
+*.tar.gz
+src/.deps/
+src/helloworld
+src/helloworld-main.o
